@@ -6,3 +6,7 @@ This first graph shows the number of stops and how it relates to the position of
 ![alt text](https://github.com/Spakicey/2022-Formula1-Analysis/blob/ajl_branch/Car%20and%20.png)?raw=true)
 
 The following pie chart represents each car type or team and the slices are representative of the Sprint times
+
+![alt text](https://github.com/Spakicey/2022-Formula1-Analysis/blob/ajl_branch/Pit%20stop%20and%20time%20to%20Results.png?raw=true)
+
+Hear we are looking at the Pit stops and times and how it results in the Final position of the first 10 races of the 2022 season.
