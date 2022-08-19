@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/101272613/185524204-b72b0b93-efb9-41d6-b071-02d01bdd028a.png)
 
 ## Machine Learning
-## Using lightgbm model to predict the winner for F1 season 2022.
+### Using lightgbm model to predict the winner for F1 season 2022.
 ![image](https://user-images.githubusercontent.com/101272613/185524643-8ea32b1e-cd86-4e9c-b86d-6d20d121e890.png)
 ![image](https://user-images.githubusercontent.com/101272613/185524689-ab5b788f-daa6-4699-b360-60b24bf7300d.png)
 ![image](https://user-images.githubusercontent.com/101272613/185524731-fe4c524c-ae35-4ed0-9a73-d0344e3becb6.png)
