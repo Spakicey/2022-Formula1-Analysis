@@ -14,3 +14,25 @@
 ## Questions they hope to answer with the data: 
 ### Stats data to drive which features make up the top drivers/constructors. Using the features to predict which driver/constructors will be the top 3. 
 ![image0](https://user-images.githubusercontent.com/101272613/184259791-09daca79-e767-4ae2-ac07-23648d37b0f2.PNG)
+
+
+# Segment 2
+## Data Extraction: HTML Webscraping
+### Pulling data from F1 website with webscraping and dependencies: Beautifulsoup, GeckoDriverManager, StaleElementReferenceException
+
+![image](https://user-images.githubusercontent.com/101272613/185523289-1b70c4ba-8f56-4662-a293-42231f4648e3.png)
+![image](https://user-images.githubusercontent.com/101272613/185523417-549419fa-f287-452d-8ec9-f0b4d71a2d21.png)
+![image](https://user-images.githubusercontent.com/101272613/185523500-00a3f8c8-80eb-49a7-88dd-c3f6842cfeb6.png)
+
+## Transform and Cleaning Data
+### Cleaning the extracted data with pandas and numpy.
+![image](https://user-images.githubusercontent.com/101272613/185523798-664f7072-96d7-4f3a-ad6b-738230ffbf97.png)
+![image](https://user-images.githubusercontent.com/101272613/185523955-281a0c90-7a50-4f00-badc-8ec6868bcd37.png)
+![image](https://user-images.githubusercontent.com/101272613/185523903-cd9ed28b-4a03-4c98-87dd-03b6531235ee.png)
+
+## Database
+### Loading the Data into MongoDB
+![image](https://user-images.githubusercontent.com/101272613/185524116-f8ab40b4-9e73-4b7c-bf18-a236778af574.png)
+![image](https://user-images.githubusercontent.com/101272613/185524204-b72b0b93-efb9-41d6-b071-02d01bdd028a.png)
+
+
