@@ -35,4 +35,18 @@
 ![image](https://user-images.githubusercontent.com/101272613/185524116-f8ab40b4-9e73-4b7c-bf18-a236778af574.png)
 ![image](https://user-images.githubusercontent.com/101272613/185524204-b72b0b93-efb9-41d6-b071-02d01bdd028a.png)
 
+## Machine Learning
+## Using lightgbm model to predict the winner for F1 season 2022.
+![image](https://user-images.githubusercontent.com/101272613/185524643-8ea32b1e-cd86-4e9c-b86d-6d20d121e890.png)
+![image](https://user-images.githubusercontent.com/101272613/185524689-ab5b788f-daa6-4699-b360-60b24bf7300d.png)
+![image](https://user-images.githubusercontent.com/101272613/185524731-fe4c524c-ae35-4ed0-9a73-d0344e3becb6.png)
+
+
+## Visualization
+### Displaying the data analysis in Tableau
+
+![image](https://user-images.githubusercontent.com/101272613/185524367-eeaa491e-0fe2-4d7b-aba7-f70377bf1d0b.png)
+![image](https://user-images.githubusercontent.com/101272613/185524485-fab6dd4e-b129-46f9-a5eb-4d5d0127a19a.png)
+![image](https://user-images.githubusercontent.com/101272613/185524544-ab8a8121-999f-4ca6-a8fe-82deeb742e3a.png)
+
 
