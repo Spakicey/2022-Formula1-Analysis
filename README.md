@@ -16,7 +16,7 @@
 ![image0](https://user-images.githubusercontent.com/101272613/184259791-09daca79-e767-4ae2-ac07-23648d37b0f2.PNG)
 
 
-# Segment 2
+# Segment 2 & 3
 ## Data Extraction: HTML Webscraping
 ### Pulling data from F1 website with webscraping and dependencies: Beautifulsoup, GeckoDriverManager, StaleElementReferenceException
 
