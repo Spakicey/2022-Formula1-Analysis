@@ -41,6 +41,9 @@
 ![image](https://user-images.githubusercontent.com/101272613/185524689-ab5b788f-daa6-4699-b360-60b24bf7300d.png)
 ![image](https://user-images.githubusercontent.com/101272613/185524731-fe4c524c-ae35-4ed0-9a73-d0344e3becb6.png)
 
+### Revision of the ML: Fixed some of the over-fitting and increased accuracy score. 
+![image](https://user-images.githubusercontent.com/101272613/185822821-618bbaf0-0462-437b-9a31-1d8d0804ddf9.png)
+
 
 ## Visualization
 ### Displaying the data analysis in Tableau
