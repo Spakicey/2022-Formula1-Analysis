@@ -71,7 +71,7 @@ def scrapeF1Tables(data, browser):
     race_result_data = pd.DataFrame()
     side_col_data_df = pd.DataFrame()
     f1_url = 'https://www.formula1.com'
-    os.makedirs('./data/', exist_ok=True)
+    # os.makedirs('./data/', exist_ok=True)
 
     # Scrape data
     for count, race_href in enumerate(race_partial_hrefs):
