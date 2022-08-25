@@ -1,4 +1,24 @@
-# 2022-Formula1-Analysis
+# 2022 Formula 1 Analysis
+
+## Project Summary
+With half of the 2022 Formula 1 season completed and all the race data freely available on the Formula 1 website, we as a team thought it'd be a great capstone project to create a flask webapp that scrapes the 13 races worth of data, cleans it, inserts it into a MongoDB, and displays it to be viewed. Once completed, we took the dataset and fit it to a LightGBM model to see what results we could get. Take a look below for our findings!
+
+## Resources
+- Data Source: master_1.csv (scraped from the web)
+- Software: Python 3.7, Tableau
+- IDEs: Jupyter Notebook, Visual Studio Code
+- Main Packages Used: Pandas, Splinter, BeautifulSoup, Flask, Flask_PyMongo, LightGBM, Scikit-Learn
+
+## How To Run Flask App
+  - Install required packages
+  - If using FireFox, no editing of the scraping.py file is required, but if using another browser, you will need to change the webdriver_manager package (lines 6, 14, 15)
+  - If you're using an env, make sure to activate the env you installed the packages in
+  - Run mongo database instance by typing `mongod` in terminal. You may have to specify the mongodb path with `mongod --dbpath PATH_NAME`
+  - Run `mongo` in another terminal tab
+  - With mongo active, enter `use f1_app`
+  - In your Flask app.py path, enter `flask run`
+  - The app should run on http://127.0.0.1:5000/
+  - Once the "Scrape New Data" button has been clicked, the program will take a minute or two to display the table of data
 
 ## Topic:
 ### F1 Racing
@@ -54,7 +74,7 @@
 
 This first graph shows the number of stops and how it relates to the position of finish of the driver and seperated by each race
 
-![alt text](https://github.com/Spakicey/2022-Formula1-Analysis/blob/ajl_branch/Car%20and%20.png)?raw=true)
+![alt text](https://github.com/Spakicey/2022-Formula1-Analysis/blob/ajl_branch/Car%20and%20.png?raw=true)
 
 The following pie chart represents each car type or team and the slices are representative of the Sprint times
 
